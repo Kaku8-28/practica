@@ -1,0 +1,2 @@
+# practica
+partica parcial 
